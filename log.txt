@@ -982,3 +982,61 @@ Language: English, Mohawk
 
 Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
+
+
+Your star data: my-tweets
+
+Mon Nov 06 23:52:30 +0000 2017
+RT @JoyAnnReid: Looking forward to talking God with the amazing @rezaaslan at Symphony Space shortly! #Harlem #GoodTalk
+
+Mon Nov 06 23:26:38 +0000 2017
+RT @TheTweetOfGod: What part of the Bible did you get that from, Joe?
+The part with all the guns in it? https://t.co/RO7Yupa9RM
+
+Mon Nov 06 23:16:07 +0000 2017
+RT @mehdirhasan: Spot on. I’ve been saying this for a while but Reza, as ever, says it more eloquently and authoritatively than I can :-) h…
+
+Mon Nov 06 22:17:15 +0000 2017
+RT @TheTweetOfGod: Looking forward to it Aslan, you Narnian-named nonbeliever!
+
+(I joke Reza, but seriously you're an atheist and you're go…
+
+Mon Nov 06 22:02:32 +0000 2017
+Wondering what God thinks of my new book #GodAHumanHistory? Find out tomorrow when I interview @TheTweetofGod on twitter at 1pmET #GodChat
+
+
+
+Your star data: movie-this fury
+
+Title: Fury
+
+IMDB Rating: 7.6
+
+Country: USA, China, UK
+
+Rotten Tomatoes Rating: 77%
+
+Plot: A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.
+
+Actors: Brad Pitt, Shia LaBeouf, Logan Lerman, Michael Peña
+
+Language: English, German
+
+Year: 2014
+
+
+
+Your star data: do-what-it-says
+
+
+
+Your star data: spotify-this-song
+
+Artist: Ty Dolla $ign
+
+Song: All The Time
+
+Album: Beach House 3
+
+Preview: https://p.scdn.co/mp3-preview/8837af715f030f76a8f6990a51e3ba6cf5155a84?cid=f5519412b3554478b3e886d7ac720a15
+
