@@ -1,0 +1,1042 @@
+
+
+Your command input: my-tweets
+
+Failed at my-tweets [object Object]
+
+
+
+Your command input: spotify-this-song love-you
+
+
+
+Your command input: movie-this fury
+
+Title: Fury
+
+Year: 2014
+
+Country: USA, China, UK
+
+Rotten Tomatoes Rating: 77%
+
+IMDB Rating: 7.6
+
+Language: English, German
+
+Actors: Brad Pitt, Shia LaBeouf, Logan Lerman, Michael Peña
+
+Plot: A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.
+
+
+
+Your command input: do-what-it-says
+
+
+
+Your command input: my-tweets
+
+Tue Nov 07 04:26:19 +0000 2017
+RT @ACEsaf: stand up for what you believe in https://t.co/wmMsmROS1u
+
+Tue Nov 07 04:26:25 +0000 2017
+RT @laurenrfit: I was so insecure with my body &amp; then I discovered this. 29 days later &amp; I'm so happy!☺️ It can't hurt to try!🤷🏼‍The link i…
+
+Tue Nov 07 04:26:12 +0000 2017
+RT @itstinatbh: i wish this video would go on forever https://t.co/olE0lLhElN
+
+Thu Jul 27 23:00:40 +0000 2017
+what did the mentos say to the diet coke? "I think you're overreacting" lmao anyways cats have dreams just like the rest of us
+
+Tue Nov 07 04:03:33 +0000 2017
+RT @ShopAvalon88: Clearance sale🔥everything up to 40% off! Use code "ILOVEAVALON" for an extra 20% off at checkout😍 https://t.co/UOZiESCj2H
+
+Thu Jul 27 18:01:16 +0000 2017
+if you litter get off twitter
+
+Thu Jul 27 01:00:03 +0000 2017
+s/o if you spin the bag of bread then tuck the flap underneath instead of using twist ties, to let gravity hold it together good I SEE U
+
+Fri Jul 28 20:23:27 +0000 2017
+@RSVPKINGZ Y'all steal your terms from other people and then cry wolf when someone steals yours. Lose the ego. Your "legal team" sucks
+
+Wed Jul 26 01:00:35 +0000 2017
+a recent harvard study found that lamborghini mercy does indeed make ur chick so thirsty
+
+Tue Jul 25 23:00:48 +0000 2017
+TEXT YOUR FRIENDS RIGHT NOW AND TELL THEM I SAID GRANITE IS THE SECOND HARDEST SUBSTANCE IN THE WORLD
+
+Wed Jul 26 18:00:06 +0000 2017
+I love a bad chick that talks dirty to me in bed like "aye bill geology provides the primary evidence for plate tectonics" mhm u filthy girl
+
+Tue Jul 25 18:00:13 +0000 2017
+hate when people say "omg that cloud looks like a hippo" nah b it really looks like a bunch of suspended water and ice particles sit down
+
+Mon Jul 24 23:00:23 +0000 2017
+rats did this tortoise dirty and gnawed off his front legs so they gave him wheels now he grindin faster than ever https://t.co/xQGfEXzd7h
+
+Mon Jul 24 18:00:00 +0000 2017
+back in school my homies would always ask me to ditch for a party or whatever but i'd just be like my nigga.. labrats over hoodrats
+
+Tue Jul 25 01:00:24 +0000 2017
+next time you look in the mirror don't forget that a crazyass skull lives inside your face
+
+Wed Jul 26 23:00:16 +0000 2017
+HOW TO IDENTIFY A STICK: my dude just hold it and if it feels like a stick then it's a stick
+
+Sun Jul 23 23:00:40 +0000 2017
+a group of crows is called a "murder" and if u dont think thats the baddest shit ever then get TF outta my face
+
+Mon Jul 24 01:00:08 +0000 2017
+you ever see a cloud so dope that you forget to study for your finals lmao dam
+
+Sun Jul 23 18:00:15 +0000 2017
+science fact: money trees is the perfect place for shade
+
+Sun Jul 23 01:00:27 +0000 2017
+aye this image just says it all https://t.co/evd6bHLY73
+
+
+
+Your command input: spotify-this-song let-me-love-you
+
+Artist: Mario
+
+Song: Let Me Love You
+
+Album: Let Me Love You
+
+Preview: https://p.scdn.co/mp3-preview/cf789f03af0823c236804eac219c0589da733bd3?cid=51aecbc6473143fbb6c2a6f88ad91d0d
+
+
+
+Your command input: do-what-it-says
+
+
+
+Your command input: spotify-this-song I Want it That Way
+
+Artist: Backstreet Boys
+
+Song: I Want It That Way
+
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=51aecbc6473143fbb6c2a6f88ad91d0d
+
+Album: The Hits--Chapter One
+
+
+
+Your command input: movie-this fury
+
+Title: Fury
+
+IMDB Rating: 7.6
+
+Rotten Tomatoes Rating: 77%
+
+Language: English, German
+
+Country: USA, China, UK
+
+Actors: Brad Pitt, Shia LaBeouf, Logan Lerman, Michael Peña
+
+Year: 2014
+
+Plot: A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.
+
+
+
+Your command input: spotify-this-song let me love you
+
+Artist: Mario
+
+Song: Let Me Love You
+
+Preview: https://p.scdn.co/mp3-preview/cf789f03af0823c236804eac219c0589da733bd3?cid=f5519412b3554478b3e886d7ac720a15
+
+Album: Let Me Love You
+
+
+
+Your command input: my-tweets
+
+Failed at my-tweets [object Object]
+
+
+
+Your command input: my-tweets
+
+Failed at my-tweets [object Object]
+
+
+
+Your command input: my-tweets
+
+
+
+Your command input: my-tweets
+
+Tue Nov 07 04:47:48 +0000 2017
+RT @JennaMcAvoy1: Relationships have been made from https://t.co/IfawO6vMCb bracelets and apparel 😍💞 https://t.co/Pxs1NPrZss
+
+Tue Nov 07 04:47:43 +0000 2017
+RT @AlexaStrut: This is IMPOSSIBLE. 😭😫. https://t.co/KVnHuuLq45
+
+Tue Nov 07 04:03:33 +0000 2017
+RT @ShopAvalon88: Clearance sale🔥everything up to 40% off! Use code "ILOVEAVALON" for an extra 20% off at checkout😍 https://t.co/UOZiESCj2H
+
+Tue Nov 07 04:47:38 +0000 2017
+RT @daiIyIaughs: if toilets could talk 🚽 https://t.co/NZhUPe7snp
+
+Thu Jul 27 23:00:40 +0000 2017
+what did the mentos say to the diet coke? "I think you're overreacting" lmao anyways cats have dreams just like the rest of us
+
+Fri Jul 28 20:23:27 +0000 2017
+@RSVPKINGZ Y'all steal your terms from other people and then cry wolf when someone steals yours. Lose the ego. Your "legal team" sucks
+
+Thu Jul 27 18:01:16 +0000 2017
+if you litter get off twitter
+
+Wed Jul 26 23:00:16 +0000 2017
+HOW TO IDENTIFY A STICK: my dude just hold it and if it feels like a stick then it's a stick
+
+Thu Jul 27 01:00:03 +0000 2017
+s/o if you spin the bag of bread then tuck the flap underneath instead of using twist ties, to let gravity hold it together good I SEE U
+
+Wed Jul 26 18:00:06 +0000 2017
+I love a bad chick that talks dirty to me in bed like "aye bill geology provides the primary evidence for plate tectonics" mhm u filthy girl
+
+Tue Jul 25 18:00:13 +0000 2017
+hate when people say "omg that cloud looks like a hippo" nah b it really looks like a bunch of suspended water and ice particles sit down
+
+Tue Jul 25 23:00:48 +0000 2017
+TEXT YOUR FRIENDS RIGHT NOW AND TELL THEM I SAID GRANITE IS THE SECOND HARDEST SUBSTANCE IN THE WORLD
+
+Tue Jul 25 01:00:24 +0000 2017
+next time you look in the mirror don't forget that a crazyass skull lives inside your face
+
+Mon Jul 24 23:00:23 +0000 2017
+rats did this tortoise dirty and gnawed off his front legs so they gave him wheels now he grindin faster than ever https://t.co/xQGfEXzd7h
+
+Mon Jul 24 01:00:08 +0000 2017
+you ever see a cloud so dope that you forget to study for your finals lmao dam
+
+Mon Jul 24 18:00:00 +0000 2017
+back in school my homies would always ask me to ditch for a party or whatever but i'd just be like my nigga.. labrats over hoodrats
+
+Wed Jul 26 01:00:35 +0000 2017
+a recent harvard study found that lamborghini mercy does indeed make ur chick so thirsty
+
+Sun Jul 23 18:00:15 +0000 2017
+science fact: money trees is the perfect place for shade
+
+Sun Jul 23 23:00:40 +0000 2017
+a group of crows is called a "murder" and if u dont think thats the baddest shit ever then get TF outta my face
+
+Sun Jul 23 01:00:27 +0000 2017
+aye this image just says it all https://t.co/evd6bHLY73
+
+
+
+Your command input: my-tweets
+
+Failed at my-tweets [object Object]
+
+
+
+Your command input: spotify-this-song every-night-in-my
+
+Artist: Gina
+
+Song: Every Night In My Dreams (Extended Mix)
+
+Preview: https://p.scdn.co/mp3-preview/c79e917dd53501201db99e6e0ece16ef47845788?cid=f5519412b3554478b3e886d7ac720a15
+
+Album: Every Night In My Dreams
+
+
+
+Your command input: my-tweets
+
+Failed at my-tweets [object Object]
+
+
+
+Your command input: my-tweets
+
+Tue Nov 07 04:06:38 +0000 2017
+combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.
+
+Tue Nov 07 04:06:12 +0000 2017
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.
+
+Tue Nov 07 04:05:48 +0000 2017
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making
+
+Tue Nov 07 04:06:25 +0000 2017
+All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary
+
+Tue Nov 07 04:05:19 +0000 2017
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour
+
+
+
+Your command input: my-tweets
+
+Tue Nov 07 05:08:12 +0000 2017
+RT @EATlNGHEALTHY: This bison stir-fry makes for a quick, easy and healthy dinner👩‍🍳🍽 thanks mealplan app🙏 https://t.co/qoazjZlNmw
+
+Tue Nov 07 05:08:07 +0000 2017
+RT @CauseWereComedy: This dude definitely tryna die https://t.co/9YZupyV7Gv
+
+Tue Nov 07 05:08:03 +0000 2017
+RT @CauseWereComedy: When u look in the mirror at the club drunk and u realize u a snack https://t.co/Cszmg5FwkX
+
+Fri Jul 28 20:23:27 +0000 2017
+@RSVPKINGZ Y'all steal your terms from other people and then cry wolf when someone steals yours. Lose the ego. Your "legal team" sucks
+
+Thu Jul 27 18:01:16 +0000 2017
+if you litter get off twitter
+
+Thu Jul 27 23:00:40 +0000 2017
+what did the mentos say to the diet coke? "I think you're overreacting" lmao anyways cats have dreams just like the rest of us
+
+Wed Jul 26 23:00:16 +0000 2017
+HOW TO IDENTIFY A STICK: my dude just hold it and if it feels like a stick then it's a stick
+
+Wed Jul 26 18:00:06 +0000 2017
+I love a bad chick that talks dirty to me in bed like "aye bill geology provides the primary evidence for plate tectonics" mhm u filthy girl
+
+Tue Jul 25 23:00:48 +0000 2017
+TEXT YOUR FRIENDS RIGHT NOW AND TELL THEM I SAID GRANITE IS THE SECOND HARDEST SUBSTANCE IN THE WORLD
+
+Thu Jul 27 01:00:03 +0000 2017
+s/o if you spin the bag of bread then tuck the flap underneath instead of using twist ties, to let gravity hold it together good I SEE U
+
+Tue Jul 25 18:00:13 +0000 2017
+hate when people say "omg that cloud looks like a hippo" nah b it really looks like a bunch of suspended water and ice particles sit down
+
+Wed Jul 26 01:00:35 +0000 2017
+a recent harvard study found that lamborghini mercy does indeed make ur chick so thirsty
+
+Mon Jul 24 23:00:23 +0000 2017
+rats did this tortoise dirty and gnawed off his front legs so they gave him wheels now he grindin faster than ever https://t.co/xQGfEXzd7h
+
+Mon Jul 24 18:00:00 +0000 2017
+back in school my homies would always ask me to ditch for a party or whatever but i'd just be like my nigga.. labrats over hoodrats
+
+Tue Jul 25 01:00:24 +0000 2017
+next time you look in the mirror don't forget that a crazyass skull lives inside your face
+
+Sun Jul 23 23:00:40 +0000 2017
+a group of crows is called a "murder" and if u dont think thats the baddest shit ever then get TF outta my face
+
+Sun Jul 23 18:00:15 +0000 2017
+science fact: money trees is the perfect place for shade
+
+Mon Jul 24 01:00:08 +0000 2017
+you ever see a cloud so dope that you forget to study for your finals lmao dam
+
+Sun Jul 23 01:00:27 +0000 2017
+aye this image just says it all https://t.co/evd6bHLY73
+
+Sat Jul 22 23:00:03 +0000 2017
+how's everybody doin tonite ps liquid helium has no viscocity
+
+
+
+Your command input: spotify-this-song lovely
+
+Artist: Bill Withers
+
+Song: Lovely Day
+
+Album: Lean on Me: The Best of Bill Withers
+
+Preview: https://p.scdn.co/mp3-preview/d1ba88e99cd758b289541cdc448941b4a3d73614?cid=f5519412b3554478b3e886d7ac720a15
+
+
+
+Your command input: movie-this inception
+
+Title: Inception
+
+Rotten Tomatoes Rating: 86%
+
+IMDB Rating: 8.8
+
+Language: English, Japanese, French
+
+Year: 2010
+
+Country: USA, UK
+
+Plot: A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.
+
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+
+
+
+Your command input: do-what-it-says
+
+
+
+Your command input: spotify-this-song I Want it That Way
+
+Artist: Backstreet Boys
+
+Song: I Want It That Way
+
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f5519412b3554478b3e886d7ac720a15
+
+Album: The Hits--Chapter One
+
+
+
+Your command input: my-tweets
+
+Mon Nov 06 23:52:30 +0000 2017
+RT @JoyAnnReid: Looking forward to talking God with the amazing @rezaaslan at Symphony Space shortly! #Harlem #GoodTalk
+
+Mon Nov 06 23:26:38 +0000 2017
+RT @TheTweetOfGod: What part of the Bible did you get that from, Joe?
+The part with all the guns in it? https://t.co/RO7Yupa9RM
+
+Mon Nov 06 23:16:07 +0000 2017
+RT @mehdirhasan: Spot on. I’ve been saying this for a while but Reza, as ever, says it more eloquently and authoritatively than I can :-) h…
+
+Mon Nov 06 22:17:15 +0000 2017
+RT @TheTweetOfGod: Looking forward to it Aslan, you Narnian-named nonbeliever!
+
+(I joke Reza, but seriously you're an atheist and you're go…
+
+Mon Nov 06 22:02:32 +0000 2017
+Wondering what God thinks of my new book #GodAHumanHistory? Find out tomorrow when I interview @TheTweetofGod on twitter at 1pmET #GodChat
+
+Mon Nov 06 19:49:24 +0000 2017
+RT @KLatif: This word cloud shows how @realDonaldTrump responds when an attacker is white vs. when an attacker in not white. What a racist.…
+
+Mon Nov 06 19:50:33 +0000 2017
+RT @cjwerleman: Today's must read is this by @rezaaslan. 
+
+https://t.co/3D730nKrjS
+
+Mon Nov 06 19:48:41 +0000 2017
+RT @ishaantharoor: Funny how the folks who say it's crazy to ban guns after mass-shootings are the ones calling for bans on whole nations a…
+
+Mon Nov 06 19:47:53 +0000 2017
+RT @jaketapper: I just took out a subscription to the @LATimes in honor of Disney boycotting the newspaper because it engaged in journalism…
+
+Mon Nov 06 19:39:51 +0000 2017
+RT @SenBobCasey: Pg 166 and this is where they double the estate-tax exemption. Unless you’re a millionaire, this does not help you. https:…
+
+Mon Nov 06 19:39:34 +0000 2017
+RT @SenBobCasey: Pg 233 eliminates the deduction for domestic manufacturing. - JCT explanation pg 142 https://t.co/uw0VhrR1eU
+
+Mon Nov 06 19:39:29 +0000 2017
+RT @SenBobCasey: Pg 132 Repeals the $250 above the line deduction for teachers to help offset their out of pocket school supplies. https://…
+
+Mon Nov 06 19:39:37 +0000 2017
+RT @SenBobCasey: This eliminates the above-the-line student loan interest deduction. https://t.co/wj6fkHUEfl
+
+Mon Nov 06 19:39:46 +0000 2017
+RT @SenBobCasey: Pg 89 This repeals the Lifetime Learning Credit - a $2,000 Tax Credit for those seeking to acquire or improve job skills.…
+
+Mon Nov 06 19:39:26 +0000 2017
+RT @SenBobCasey: Pg 252 Repeals the Work Opportunity Tax Credit, including for disabled vets and low income families- JCT explanation pg 15…
+
+Mon Nov 06 19:50:03 +0000 2017
+RT @MadawiDr: Has MBS bought the Guardian https://t.co/6VdxIJ2Ng2
+
+Mon Nov 06 19:39:16 +0000 2017
+RT @SenBobCasey: Pg 135 This is a new moving tax on anyone who has to relocate frequently for work. - JCT explanation pg 61 https://t.co/9L…
+
+Mon Nov 06 19:39:21 +0000 2017
+RT @SenBobCasey: Page 103 - This eliminates the deduction for state and local income taxes. https://t.co/j59ple5RFm
+
+Mon Nov 06 19:39:10 +0000 2017
+RT @SenBobCasey: Pg 72. This repeals the Adoption Tax credit making it harder for middle class families to adopt. - JCT explanation pg 26 h…
+
+Mon Nov 06 19:39:05 +0000 2017
+RT @SenBobCasey: This eliminates the deduction for people with high medical expenses. - JCT explanation pg. 60 https://t.co/MVqjGgJbsy
+
+
+
+Your command input: my-tweets
+
+Mon Nov 06 23:52:30 +0000 2017
+RT @JoyAnnReid: Looking forward to talking God with the amazing @rezaaslan at Symphony Space shortly! #Harlem #GoodTalk
+
+Mon Nov 06 23:26:38 +0000 2017
+RT @TheTweetOfGod: What part of the Bible did you get that from, Joe?
+The part with all the guns in it? https://t.co/RO7Yupa9RM
+
+Mon Nov 06 22:17:15 +0000 2017
+RT @TheTweetOfGod: Looking forward to it Aslan, you Narnian-named nonbeliever!
+
+(I joke Reza, but seriously you're an atheist and you're go…
+
+Mon Nov 06 23:16:07 +0000 2017
+RT @mehdirhasan: Spot on. I’ve been saying this for a while but Reza, as ever, says it more eloquently and authoritatively than I can :-) h…
+
+Mon Nov 06 22:02:32 +0000 2017
+Wondering what God thinks of my new book #GodAHumanHistory? Find out tomorrow when I interview @TheTweetofGod on twitter at 1pmET #GodChat
+
+Mon Nov 06 19:50:33 +0000 2017
+RT @cjwerleman: Today's must read is this by @rezaaslan. 
+
+https://t.co/3D730nKrjS
+
+Mon Nov 06 19:49:24 +0000 2017
+RT @KLatif: This word cloud shows how @realDonaldTrump responds when an attacker is white vs. when an attacker in not white. What a racist.…
+
+Mon Nov 06 19:47:53 +0000 2017
+RT @jaketapper: I just took out a subscription to the @LATimes in honor of Disney boycotting the newspaper because it engaged in journalism…
+
+Mon Nov 06 19:39:51 +0000 2017
+RT @SenBobCasey: Pg 166 and this is where they double the estate-tax exemption. Unless you’re a millionaire, this does not help you. https:…
+
+Mon Nov 06 19:39:46 +0000 2017
+RT @SenBobCasey: Pg 89 This repeals the Lifetime Learning Credit - a $2,000 Tax Credit for those seeking to acquire or improve job skills.…
+
+Mon Nov 06 19:48:41 +0000 2017
+RT @ishaantharoor: Funny how the folks who say it's crazy to ban guns after mass-shootings are the ones calling for bans on whole nations a…
+
+Mon Nov 06 19:39:37 +0000 2017
+RT @SenBobCasey: This eliminates the above-the-line student loan interest deduction. https://t.co/wj6fkHUEfl
+
+Mon Nov 06 19:50:03 +0000 2017
+RT @MadawiDr: Has MBS bought the Guardian https://t.co/6VdxIJ2Ng2
+
+Mon Nov 06 19:39:34 +0000 2017
+RT @SenBobCasey: Pg 233 eliminates the deduction for domestic manufacturing. - JCT explanation pg 142 https://t.co/uw0VhrR1eU
+
+Mon Nov 06 19:39:26 +0000 2017
+RT @SenBobCasey: Pg 252 Repeals the Work Opportunity Tax Credit, including for disabled vets and low income families- JCT explanation pg 15…
+
+Mon Nov 06 19:39:21 +0000 2017
+RT @SenBobCasey: Page 103 - This eliminates the deduction for state and local income taxes. https://t.co/j59ple5RFm
+
+Mon Nov 06 19:39:16 +0000 2017
+RT @SenBobCasey: Pg 135 This is a new moving tax on anyone who has to relocate frequently for work. - JCT explanation pg 61 https://t.co/9L…
+
+Mon Nov 06 19:39:10 +0000 2017
+RT @SenBobCasey: Pg 72. This repeals the Adoption Tax credit making it harder for middle class families to adopt. - JCT explanation pg 26 h…
+
+Mon Nov 06 19:39:29 +0000 2017
+RT @SenBobCasey: Pg 132 Repeals the $250 above the line deduction for teachers to help offset their out of pocket school supplies. https://…
+
+Mon Nov 06 19:39:05 +0000 2017
+RT @SenBobCasey: This eliminates the deduction for people with high medical expenses. - JCT explanation pg. 60 https://t.co/MVqjGgJbsy
+
+
+
+Your command input: my-tweets
+
+Failed at my-tweets [object Object]
+
+
+
+Your command input: my-tweets
+
+Failed at my-tweets [object Object]
+
+
+
+Your command input: my-tweets
+
+Mon Nov 06 23:52:30 +0000 2017
+RT @JoyAnnReid: Looking forward to talking God with the amazing @rezaaslan at Symphony Space shortly! #Harlem #GoodTalk
+
+Mon Nov 06 23:26:38 +0000 2017
+RT @TheTweetOfGod: What part of the Bible did you get that from, Joe?
+The part with all the guns in it? https://t.co/RO7Yupa9RM
+
+Mon Nov 06 23:16:07 +0000 2017
+RT @mehdirhasan: Spot on. I’ve been saying this for a while but Reza, as ever, says it more eloquently and authoritatively than I can :-) h…
+
+Mon Nov 06 22:17:15 +0000 2017
+RT @TheTweetOfGod: Looking forward to it Aslan, you Narnian-named nonbeliever!
+
+(I joke Reza, but seriously you're an atheist and you're go…
+
+Mon Nov 06 19:50:33 +0000 2017
+RT @cjwerleman: Today's must read is this by @rezaaslan. 
+
+https://t.co/3D730nKrjS
+
+Mon Nov 06 22:02:32 +0000 2017
+Wondering what God thinks of my new book #GodAHumanHistory? Find out tomorrow when I interview @TheTweetofGod on twitter at 1pmET #GodChat
+
+Mon Nov 06 19:50:03 +0000 2017
+RT @MadawiDr: Has MBS bought the Guardian https://t.co/6VdxIJ2Ng2
+
+Mon Nov 06 19:48:41 +0000 2017
+RT @ishaantharoor: Funny how the folks who say it's crazy to ban guns after mass-shootings are the ones calling for bans on whole nations a…
+
+Mon Nov 06 19:49:24 +0000 2017
+RT @KLatif: This word cloud shows how @realDonaldTrump responds when an attacker is white vs. when an attacker in not white. What a racist.…
+
+Mon Nov 06 19:47:53 +0000 2017
+RT @jaketapper: I just took out a subscription to the @LATimes in honor of Disney boycotting the newspaper because it engaged in journalism…
+
+Mon Nov 06 19:39:51 +0000 2017
+RT @SenBobCasey: Pg 166 and this is where they double the estate-tax exemption. Unless you’re a millionaire, this does not help you. https:…
+
+Mon Nov 06 19:39:46 +0000 2017
+RT @SenBobCasey: Pg 89 This repeals the Lifetime Learning Credit - a $2,000 Tax Credit for those seeking to acquire or improve job skills.…
+
+Mon Nov 06 19:39:37 +0000 2017
+RT @SenBobCasey: This eliminates the above-the-line student loan interest deduction. https://t.co/wj6fkHUEfl
+
+Mon Nov 06 19:39:29 +0000 2017
+RT @SenBobCasey: Pg 132 Repeals the $250 above the line deduction for teachers to help offset their out of pocket school supplies. https://…
+
+Mon Nov 06 19:39:34 +0000 2017
+RT @SenBobCasey: Pg 233 eliminates the deduction for domestic manufacturing. - JCT explanation pg 142 https://t.co/uw0VhrR1eU
+
+Mon Nov 06 19:39:26 +0000 2017
+RT @SenBobCasey: Pg 252 Repeals the Work Opportunity Tax Credit, including for disabled vets and low income families- JCT explanation pg 15…
+
+Mon Nov 06 19:39:10 +0000 2017
+RT @SenBobCasey: Pg 72. This repeals the Adoption Tax credit making it harder for middle class families to adopt. - JCT explanation pg 26 h…
+
+Mon Nov 06 19:39:21 +0000 2017
+RT @SenBobCasey: Page 103 - This eliminates the deduction for state and local income taxes. https://t.co/j59ple5RFm
+
+Mon Nov 06 19:39:16 +0000 2017
+RT @SenBobCasey: Pg 135 This is a new moving tax on anyone who has to relocate frequently for work. - JCT explanation pg 61 https://t.co/9L…
+
+Mon Nov 06 19:39:05 +0000 2017
+RT @SenBobCasey: This eliminates the deduction for people with high medical expenses. - JCT explanation pg. 60 https://t.co/MVqjGgJbsy
+
+
+
+Your command input: my-tweets
+
+Mon Nov 06 23:52:30 +0000 2017
+RT @JoyAnnReid: Looking forward to talking God with the amazing @rezaaslan at Symphony Space shortly! #Harlem #GoodTalk
+
+Mon Nov 06 23:26:38 +0000 2017
+RT @TheTweetOfGod: What part of the Bible did you get that from, Joe?
+The part with all the guns in it? https://t.co/RO7Yupa9RM
+
+Mon Nov 06 23:16:07 +0000 2017
+RT @mehdirhasan: Spot on. I’ve been saying this for a while but Reza, as ever, says it more eloquently and authoritatively than I can :-) h…
+
+Mon Nov 06 22:17:15 +0000 2017
+RT @TheTweetOfGod: Looking forward to it Aslan, you Narnian-named nonbeliever!
+
+(I joke Reza, but seriously you're an atheist and you're go…
+
+Mon Nov 06 22:02:32 +0000 2017
+Wondering what God thinks of my new book #GodAHumanHistory? Find out tomorrow when I interview @TheTweetofGod on twitter at 1pmET #GodChat
+
+
+
+Your command input: spotify-this-song lovely
+
+Artist: Bill Withers
+
+Song: Lovely Day
+
+Album: Lean on Me: The Best of Bill Withers
+
+Preview: https://p.scdn.co/mp3-preview/d1ba88e99cd758b289541cdc448941b4a3d73614?cid=f5519412b3554478b3e886d7ac720a15
+
+
+
+Your command input: movie-this deadpool
+
+Title: Deadpool
+
+IMDB Rating: 8.0
+
+Year: 2016
+
+Language: English
+
+Rotten Tomatoes Rating: 84%
+
+Plot: A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge.
+
+Country: USA
+
+Actors: Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer
+
+
+
+Your command input: do-what-it-says
+
+
+
+Your command input: spotify-this-song I Want it That Way
+
+Artist: Backstreet Boys
+
+Song: I Want It That Way
+
+Album: The Hits--Chapter One
+
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f5519412b3554478b3e886d7ac720a15
+
+
+
+Your command input: my-tweets
+
+Mon Nov 06 23:52:30 +0000 2017
+RT @JoyAnnReid: Looking forward to talking God with the amazing @rezaaslan at Symphony Space shortly! #Harlem #GoodTalk
+
+Mon Nov 06 23:26:38 +0000 2017
+RT @TheTweetOfGod: What part of the Bible did you get that from, Joe?
+The part with all the guns in it? https://t.co/RO7Yupa9RM
+
+Mon Nov 06 23:16:07 +0000 2017
+RT @mehdirhasan: Spot on. I’ve been saying this for a while but Reza, as ever, says it more eloquently and authoritatively than I can :-) h…
+
+Mon Nov 06 22:17:15 +0000 2017
+RT @TheTweetOfGod: Looking forward to it Aslan, you Narnian-named nonbeliever!
+
+(I joke Reza, but seriously you're an atheist and you're go…
+
+Mon Nov 06 22:02:32 +0000 2017
+Wondering what God thinks of my new book #GodAHumanHistory? Find out tomorrow when I interview @TheTweetofGod on twitter at 1pmET #GodChat
+
+
+
+Your command input: movie-this fury
+
+Title: Fury
+
+Rotten Tomatoes Rating: 77%
+
+Country: USA, China, UK
+
+Year: 2014
+
+Language: English, German
+
+Plot: A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.
+
+Actors: Brad Pitt, Shia LaBeouf, Logan Lerman, Michael Peña
+
+IMDB Rating: 7.6
+
+
+
+Your command input: do-what-it-says
+
+
+
+Your command input: spotify-this-song I Want it That Way
+
+Artist: Backstreet Boys
+
+Song: I Want It That Way
+
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f5519412b3554478b3e886d7ac720a15
+
+Album: The Hits--Chapter One
+
+
+
+Your command input: spotify-this-song lovely
+
+Artist: Bill Withers
+
+Preview: https://p.scdn.co/mp3-preview/d1ba88e99cd758b289541cdc448941b4a3d73614?cid=f5519412b3554478b3e886d7ac720a15
+
+Album: Lean on Me: The Best of Bill Withers
+
+Song: Lovely Day
+
+
+
+Your command input: my-tweets
+
+Mon Nov 06 23:52:30 +0000 2017
+RT @JoyAnnReid: Looking forward to talking God with the amazing @rezaaslan at Symphony Space shortly! #Harlem #GoodTalk
+
+Mon Nov 06 23:26:38 +0000 2017
+RT @TheTweetOfGod: What part of the Bible did you get that from, Joe?
+The part with all the guns in it? https://t.co/RO7Yupa9RM
+
+Mon Nov 06 23:16:07 +0000 2017
+RT @mehdirhasan: Spot on. I’ve been saying this for a while but Reza, as ever, says it more eloquently and authoritatively than I can :-) h…
+
+Mon Nov 06 22:17:15 +0000 2017
+RT @TheTweetOfGod: Looking forward to it Aslan, you Narnian-named nonbeliever!
+
+(I joke Reza, but seriously you're an atheist and you're go…
+
+Mon Nov 06 22:02:32 +0000 2017
+Wondering what God thinks of my new book #GodAHumanHistory? Find out tomorrow when I interview @TheTweetofGod on twitter at 1pmET #GodChat
+
+
+
+Your command input: do-what-it-says
+
+
+
+Your command input: spotify-this-song I Want it That Way
+
+Song: I Want It That Way
+
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f5519412b3554478b3e886d7ac720a15
+
+Artist: Backstreet Boys
+
+Album: The Hits--Chapter One
+
+
+
+Your command input: movie-this deadpool
+
+Title: Deadpool
+
+IMDB Rating: 8.0
+
+Rotten Tomatoes Rating: 84%
+
+Year: 2016
+
+Language: English
+
+Plot: A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge.
+
+Country: USA
+
+Actors: Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer
+
+
+
+Your star input: my-tweets
+
+Mon Nov 06 23:52:30 +0000 2017
+RT @JoyAnnReid: Looking forward to talking God with the amazing @rezaaslan at Symphony Space shortly! #Harlem #GoodTalk
+
+Mon Nov 06 23:26:38 +0000 2017
+RT @TheTweetOfGod: What part of the Bible did you get that from, Joe?
+The part with all the guns in it? https://t.co/RO7Yupa9RM
+
+Mon Nov 06 23:16:07 +0000 2017
+RT @mehdirhasan: Spot on. I’ve been saying this for a while but Reza, as ever, says it more eloquently and authoritatively than I can :-) h…
+
+Mon Nov 06 22:17:15 +0000 2017
+RT @TheTweetOfGod: Looking forward to it Aslan, you Narnian-named nonbeliever!
+
+(I joke Reza, but seriously you're an atheist and you're go…
+
+Mon Nov 06 22:02:32 +0000 2017
+Wondering what God thinks of my new book #GodAHumanHistory? Find out tomorrow when I interview @TheTweetofGod on twitter at 1pmET #GodChat
+
+
+
+Your star input: do-what-it-says
+
+
+
+Your star input: spotify-this-song I Want it That Way
+
+Artist: Backstreet Boys
+
+Album: The Hits--Chapter One
+
+Song: I Want It That Way
+
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f5519412b3554478b3e886d7ac720a15
+
+
+
+Your star input: movie-this fury
+
+Title: Fury
+
+Rotten Tomatoes Rating: 77%
+
+IMDB Rating: 7.6
+
+Country: USA, China, UK
+
+Language: English, German
+
+Year: 2014
+
+Plot: A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.
+
+Actors: Brad Pitt, Shia LaBeouf, Logan Lerman, Michael Peña
+
+
+
+Your star data: do-what-it-says
+
+
+
+Your star data: spotify-this-song
+
+Artist: Ty Dolla $ign
+
+Song: All The Time
+
+Preview: https://p.scdn.co/mp3-preview/8837af715f030f76a8f6990a51e3ba6cf5155a84?cid=f5519412b3554478b3e886d7ac720a15
+
+Album: Beach House 3
+
+
+
+Your star data: my-tweets
+
+Mon Nov 06 23:52:30 +0000 2017
+RT @JoyAnnReid: Looking forward to talking God with the amazing @rezaaslan at Symphony Space shortly! #Harlem #GoodTalk
+
+Mon Nov 06 23:26:38 +0000 2017
+RT @TheTweetOfGod: What part of the Bible did you get that from, Joe?
+The part with all the guns in it? https://t.co/RO7Yupa9RM
+
+Mon Nov 06 22:17:15 +0000 2017
+RT @TheTweetOfGod: Looking forward to it Aslan, you Narnian-named nonbeliever!
+
+(I joke Reza, but seriously you're an atheist and you're go…
+
+Mon Nov 06 23:16:07 +0000 2017
+RT @mehdirhasan: Spot on. I’ve been saying this for a while but Reza, as ever, says it more eloquently and authoritatively than I can :-) h…
+
+Mon Nov 06 22:02:32 +0000 2017
+Wondering what God thinks of my new book #GodAHumanHistory? Find out tomorrow when I interview @TheTweetofGod on twitter at 1pmET #GodChat
+
+
+
+Your star data: movie-this gone girl
+
+Title: Gone Girl
+
+Year: 2014
+
+IMDB Rating: 8.1
+
+Rotten Tomatoes Rating: 87%
+
+Language: English
+
+Country: USA
+
+Plot: With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.
+
+Actors: Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry
+
+
+
+Your star data: my-tweets
+
+Mon Nov 06 23:52:30 +0000 2017
+RT @JoyAnnReid: Looking forward to talking God with the amazing @rezaaslan at Symphony Space shortly! #Harlem #GoodTalk
+
+Mon Nov 06 23:26:38 +0000 2017
+RT @TheTweetOfGod: What part of the Bible did you get that from, Joe?
+The part with all the guns in it? https://t.co/RO7Yupa9RM
+
+Mon Nov 06 23:16:07 +0000 2017
+RT @mehdirhasan: Spot on. I’ve been saying this for a while but Reza, as ever, says it more eloquently and authoritatively than I can :-) h…
+
+Mon Nov 06 22:17:15 +0000 2017
+RT @TheTweetOfGod: Looking forward to it Aslan, you Narnian-named nonbeliever!
+
+(I joke Reza, but seriously you're an atheist and you're go…
+
+Mon Nov 06 22:02:32 +0000 2017
+Wondering what God thinks of my new book #GodAHumanHistory? Find out tomorrow when I interview @TheTweetofGod on twitter at 1pmET #GodChat
+
+
+
+Your star data: do-what-it-says
+
+
+
+Your star data: spotify-this-song
+
+Artist: Ty Dolla $ign
+
+Song: All The Time
+
+Album: Beach House 3
+
+Preview: https://p.scdn.co/mp3-preview/8837af715f030f76a8f6990a51e3ba6cf5155a84?cid=f5519412b3554478b3e886d7ac720a15
+
+
+
+Your star data: movie-this
+
+Title: Mr. Nobody
+
+Rotten Tomatoes Rating: 66%
+
+Year: 2009
+
+Country: Belgium, Germany, Canada, France, USA, UK
+
+IMDB Rating: 7.9
+
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Language: English, Mohawk
+
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
+
+Your star data: my-tweets
+
+Mon Nov 06 23:52:30 +0000 2017
+RT @JoyAnnReid: Looking forward to talking God with the amazing @rezaaslan at Symphony Space shortly! #Harlem #GoodTalk
+
+Mon Nov 06 23:26:38 +0000 2017
+RT @TheTweetOfGod: What part of the Bible did you get that from, Joe?
+The part with all the guns in it? https://t.co/RO7Yupa9RM
+
+Mon Nov 06 23:16:07 +0000 2017
+RT @mehdirhasan: Spot on. I’ve been saying this for a while but Reza, as ever, says it more eloquently and authoritatively than I can :-) h…
+
+Mon Nov 06 22:17:15 +0000 2017
+RT @TheTweetOfGod: Looking forward to it Aslan, you Narnian-named nonbeliever!
+
+(I joke Reza, but seriously you're an atheist and you're go…
+
+Mon Nov 06 22:02:32 +0000 2017
+Wondering what God thinks of my new book #GodAHumanHistory? Find out tomorrow when I interview @TheTweetofGod on twitter at 1pmET #GodChat
+
+
+
+Your star data: movie-this fury
+
+Title: Fury
+
+IMDB Rating: 7.6
+
+Country: USA, China, UK
+
+Rotten Tomatoes Rating: 77%
+
+Plot: A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.
+
+Actors: Brad Pitt, Shia LaBeouf, Logan Lerman, Michael Peña
+
+Language: English, German
+
+Year: 2014
+
+
+
+Your star data: do-what-it-says
+
+
+
+Your star data: spotify-this-song
+
+Artist: Ty Dolla $ign
+
+Song: All The Time
+
+Album: Beach House 3
+
+Preview: https://p.scdn.co/mp3-preview/8837af715f030f76a8f6990a51e3ba6cf5155a84?cid=f5519412b3554478b3e886d7ac720a15
+
